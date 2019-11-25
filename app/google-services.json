@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "31818687125",
+    "firebase_url": "https://signinwith-57d6f.firebaseio.com",
+    "project_id": "signinwith-57d6f",
+    "storage_bucket": "signinwith-57d6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31818687125:android:c03651c388d785615db19c",
+        "android_client_info": {
+          "package_name": "com.sofiene.sign_in_with_google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31818687125-btrmti79fhmqsvgv3kchkeja03t9eluq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sofiene.sign_in_with_google",
+            "certificate_hash": "0455c957c16b41a72eb7c089a8c3fd63b6f6eebe"
+          }
+        },
+        {
+          "client_id": "31818687125-toku9q8bnt0keqo30tg7cht837nvn3bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-PpDva_yh8cZcJ07Gk8Sh1a5CZKPTIFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31818687125-toku9q8bnt0keqo30tg7cht837nvn3bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
